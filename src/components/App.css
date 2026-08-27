@@ -3,3 +3,11 @@
   justify-content: center;
   padding: 60px 0;
 }
+
+.cmp-empty-state {
+  display: flex;
+  justify-content: center;
+  padding: 60px 0;
+  color: #888;
+  font-size: 1.2rem;
+}
